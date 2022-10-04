@@ -28,7 +28,7 @@ h3 {
   gap: 35px;
   border-radius: 15px;
   background: #e3e3e3;
-  box-shadow: 16px 16px 32px #c8c8c8, -16px -16px 32px #fefefe;
+  box-shadow: 16px 16px 32px gold, -16px -16px 32px blue;
 }
 
 .inputbox {
