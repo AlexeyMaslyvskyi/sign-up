@@ -108,7 +108,7 @@ button {
   letter-spacing: 2px;
 }
 button:hover {
-  background-color: #da4f6e;
+  background-color: #000000;
   background-image: linear-gradient(
     0deg,
    gold 20%,
